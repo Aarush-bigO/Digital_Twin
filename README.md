@@ -5,25 +5,6 @@
 
 ---
 
-## 📋 Mandatory Hackathon Submission Checklist
-
-| Checklist Item | Status | Location / Reference |
-| :--- | :---: | :--- |
-| **Team Details** | ✅ Included | [See Team Section](#-team-details) |
-| **College / Incubator Information** | ✅ Included | [See College Info](#-college--incubator-information) |
-| **Project Title** | ✅ Included | Prescripto Digital Twin |
-| **Problem Statement** | ✅ Included | [See Problem Statement](#-problem-statement) |
-| **Healthcare Use Case** | ✅ Included | [See Healthcare Use Case](#-healthcare-use-case) |
-| **Technical Stack** | ✅ Included | [See Tech Stack](#-technical-stack) |
-| **AI/ML Model & Framework Details** | ✅ Included | [See AI/ML Framework Details](#-aiml-model--digital-twin-computational-framework) |
-| **15-20 Minute Demo Video Link** | ✅ Ready | [See Video Section](#-15-20-minute-demonstration-video) *(Paste unlisted YouTube link)* |
-| **Open-Source License Details** | ✅ MIT License | [LICENSE](./LICENSE) |
-| **Architecture Diagram (PDF/PPT)** | ✅ Included | [docs/architecture_diagram.pdf](./docs/architecture_diagram.pdf) & [Architecture Section](#-system-architecture) |
-| **Presentation (PDF/PPT)** | ✅ Included | [docs/project_presentation.pdf](./docs/project_presentation.pdf) |
-| **Publicly Accessible Repository** | ✅ Verified | [https://github.com/Aarush-bigO/Digital_Twin](https://github.com/Aarush-bigO/Digital_Twin) |
-
----
-
 ## 👥 Team Details
 
 * **Team Leader / Primary Developer:** Aarush Bharti
