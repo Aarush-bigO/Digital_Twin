@@ -9,6 +9,26 @@ Prescripto is an enterprise-grade clinical healthcare and telemedicine platform 
 
 ---
 
+## 📋 Hackathon Submission Compliance Checklist
+
+| Mandatory Item | Status | README Section Link |
+| :--- | :---: | :--- |
+| **1. Team Details** | ✅ Included | [View Team Details](#-team-details) |
+| **2. College / Incubator Information** | ✅ Included | [View College Information](#-college--incubator-information) |
+| **3. Project Title** | ✅ Included | [View Project Title](#-prescripto-ai-powered-doctor-appointment-tele-consultation--patient-digital-twin-platform) |
+| **4. Problem Statement** | ✅ Included | [View Problem Statement](#-problem-statement) |
+| **5. Healthcare Use Case** | ✅ Included | [View Healthcare Use Case](#-healthcare-use-case--digital-twin-formulation) |
+| **6. Technical Stack** | ✅ Included | [View Technical Stack Matrix](#-technical-stack-matrix) |
+| **7. AI/ML Model or Framework Details** | ✅ Included | [View AI Triage](#-ai-medical-triage-service), [RAG](#-rag-medical-assistant-service) & [Twin Framework](#-digital-twin-computational-framework--simulation-equations) |
+| **8. 15-20 Min Demo Video (Unlisted YouTube)** | ⚠️ *Add Your Link* | [View Demo Video Section](#-15-20-minute-demonstration-video) |
+| **9. Open-source License Details** | ✅ Included | [View Open-Source License](#-open-source-license--clinical-disclaimer) ([LICENSE](./LICENSE)) |
+| **10. Architecture Diagram (PDF/PPT)** | ✅ Included | [Download Architecture PDF (13 Slides)](./docs/architecture_diagram.pdf) \| [View Previews](#-system-architecture-presentation-deck-13-widescreen-slides) |
+| **11. Presentation covering Details & Outcomes (PDF/PPT)** | ✅ Included | [Download Project Presentation Deck PDF](./docs/project_presentation.pdf) |
+| **12. Publicly Accessible Links (No Permissions Needed)** | ✅ Verified | All assets committed directly to public GitHub repository |
+| **🌐 Live Deployments** | ✅ Operational | [User App](https://medlink360-frontend.onrender.com) \| [Admin](https://medlink360-admin.onrender.com) \| [API](https://medlink-backend-2bgo.onrender.com) \| [AI](https://medlink360.onrender.com) |
+
+---
+
 ## 🌐 Live Deployment
 
 * **User App:** [https://medlink360-frontend.onrender.com](https://medlink360-frontend.onrender.com)
