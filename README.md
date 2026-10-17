@@ -7,14 +7,21 @@
 
 ## 👥 Team Details
 
-* **Team Leader / Primary Developer:** Aarush Bharti
+### 1. Aarush Bharti (Team Leader / Primary Developer)
 * **Email:** aarushbharti2005@gmail.com
 * **GitHub:** [Aarush-bigO](https://github.com/Aarush-bigO)
 * **Role:** Full-Stack Architecture, Digital Twin Modeling, Tele-Consultation Integration
+* **College:** Indian Institute of Information Technology (IIIT)
+
+### 2. Ananya Pandey (Team Member)
+* **Role:** Clinical UI/UX, Healthcare Experience & Frontend Engineering
+* **College:** Newton School of Technology, Pune
 
 ## 🏛️ College / Incubator Information
 
-* **Institution:** Indian Institute of Information Technology (IIIT)
+* **Institutions:**
+  * Indian Institute of Information Technology (IIIT)
+  * Newton School of Technology, Pune
 * **Department:** Computer Science & Engineering / AI & Data Science
 * **Program:** Bachelor of Technology (B.Tech)
 
