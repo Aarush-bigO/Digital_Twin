@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #5f6fff;
+}
+
+.active hr {
+  @apply block;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
