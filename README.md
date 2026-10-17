@@ -13,8 +13,8 @@
 * **Role:** Full-Stack Architecture, Digital Twin Modeling, Tele-Consultation Integration
 * **College:** Indian Institute of Information Technology (IIIT)
 
-### 2. Ananya Pandey (Team Member)
-* **Role:** Clinical UI/UX, Healthcare Experience & Frontend Engineering
+### 2. Ananya Pandey (Co-Developer & Team Member)
+* **Role:** Clinical AI & Health Informatics Lead — RAG Knowledge Retrieval, ML Triage Pipeline & Interactive Twin Experience
 * **College:** Newton School of Technology, Pune
 
 ## 🏛️ College / Incubator Information
