@@ -9,14 +9,17 @@ Prescripto is an enterprise-grade clinical healthcare and telemedicine platform 
 
 ---
 
-## 🌐 Live Deployment
+## 🌐 Live Deployments & Cloud Architecture
 
-* **User App & Digital Twin (Vercel CDN):** [https://digital-twin-sigma-plum.vercel.app](https://digital-twin-sigma-plum.vercel.app)
-* **Direct Digital Twin Simulation:** [https://digital-twin-sigma-plum.vercel.app/digital-twin](https://digital-twin-sigma-plum.vercel.app/digital-twin)
-* **Admin Panel:** [https://medlink360-admin.onrender.com](https://medlink360-admin.onrender.com)
-* **Backend API:** [https://medlink-backend-2bgo.onrender.com](https://medlink-backend-2bgo.onrender.com)
-* **AI ML Service:** [https://medlink360.onrender.com](https://medlink360.onrender.com)
-* **RAG Medical Assistant:** Implemented & tested locally in [`rag-service/`](./rag-service) *(see RAG section below)*
+| Subsystem / Layer | Technology & Provider | Status | Live Production Link |
+| :--- | :--- | :---: | :--- |
+| **🧬 Patient Digital Twin Engine** *(Star Feature)* | React 19 SPA (Vercel Global Edge CDN) | 🟢 **Operational** | **[Launch Digital Twin Simulation](https://digital-twin-sigma-plum.vercel.app/digital-twin)** |
+| **🤖 AI Specialist Triage** | React 19 + Gemini 3.8 / Scikit-Learn | 🟢 **Operational** | **[Launch AI Triage Assistant](https://digital-twin-sigma-plum.vercel.app/ai-consult)** |
+| **🏠 Main Patient Web Application** | React 19 + Tailwind CSS (Vercel Edge) | 🟢 **Operational** | **[https://digital-twin-sigma-plum.vercel.app](https://digital-twin-sigma-plum.vercel.app)** |
+| **🩺 Doctor & Admin Clinical Portal** | React 19 + Vite (Render Cloud) | 🟢 **Operational** | **[https://medlink360-admin.onrender.com](https://medlink360-admin.onrender.com)** |
+| **⚙️ Backend API Gateway & Signaling** | Node.js Express 5 + Socket.IO (Render Cloud) | 🟢 **Operational** | **[https://medlink-backend-2bgo.onrender.com](https://medlink-backend-2bgo.onrender.com)** |
+| **🧠 Machine Learning Microservice** | Python FastAPI + Scikit-Learn (Render Cloud) | 🟢 **Operational** | **[https://medlink360.onrender.com](https://medlink360.onrender.com)** |
+| **📚 RAG Knowledge Assistant** | Sentence-Transformers + FAISS + Gemini | 🟢 **Complete** | Local Service in [`rag-service/`](./rag-service) |
 
 ---
 
