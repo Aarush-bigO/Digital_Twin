@@ -1,0 +1,8 @@
+# Prescripto Digital Twin - Search Engine & Clinical Crawler Policy
+User-agent: *
+Allow: /
+Disallow: /my-profile
+Disallow: /my-appointments
+Disallow: /consult/
+
+Sitemap: https://digital-twin-sigma-plum.vercel.app/sitemap.xml
