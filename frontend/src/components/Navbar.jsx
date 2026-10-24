@@ -14,7 +14,12 @@ function Navbar() {
   };
 
   const goToDoctorPanel = () => {
-    window.location.href = import.meta.env.VITE_DOCTOR_PANEL_URL;
+    const url =
+      import.meta.env.VITE_DOCTOR_PANEL_URL ||
+      (window.location.hostname === "localhost"
+        ? "http://localhost:5174"
+        : "https://medlink360-admin.onrender.com");
+    window.location.href = url;
   };
 
   // Desktop active style
