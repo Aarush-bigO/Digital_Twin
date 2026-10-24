@@ -88,7 +88,7 @@ function Policy() {
 
       <div className="mt-3">
         <p>Email: support@digitaltwinhealth.io</p>
-        <p>Phone: +91 98765 43210</p>
+        <p>Phone: +91 00000 00000</p>
       </div>
 
     </div>

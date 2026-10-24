@@ -57,7 +57,7 @@ function Footer() {
         <div>
           <p className="font-semibold mb-4">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-sm text-gray-600">
-            <li>+91 98765 43210</li>
+            <li>+91 00000 00000</li>
             <li>support@digitaltwinhealth.io</li>
           </ul>
         </div>

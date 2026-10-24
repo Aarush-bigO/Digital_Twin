@@ -41,7 +41,7 @@ function Contact() {
 
               <div>
                 <p>
-                  <span className="font-medium text-gray-800">Contact:</span> +91 98765 43210
+                  <span className="font-medium text-gray-800">Contact:</span> +91 00000 00000
                 </p>
                 <p>
                   <span className="font-medium text-gray-800">Email:</span> support@digitaltwinhealth.io
