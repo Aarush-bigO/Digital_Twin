@@ -11,7 +11,8 @@ Prescripto is an enterprise-grade clinical healthcare and telemedicine platform 
 
 ## 🌐 Live Deployment
 
-* **User App:** [https://medlink360-frontend.onrender.com](https://medlink360-frontend.onrender.com)
+* **User App & Digital Twin (Vercel CDN):** [https://digital-twin-sigma-plum.vercel.app](https://digital-twin-sigma-plum.vercel.app)
+* **Direct Digital Twin Simulation:** [https://digital-twin-sigma-plum.vercel.app/digital-twin](https://digital-twin-sigma-plum.vercel.app/digital-twin)
 * **Admin Panel:** [https://medlink360-admin.onrender.com](https://medlink360-admin.onrender.com)
 * **Backend API:** [https://medlink-backend-2bgo.onrender.com](https://medlink-backend-2bgo.onrender.com)
 * **AI ML Service:** [https://medlink360.onrender.com](https://medlink360.onrender.com)
