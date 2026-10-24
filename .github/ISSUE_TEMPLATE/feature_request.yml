@@ -1,0 +1,19 @@
+name: 💡 Feature Request
+description: Propose a new physiological parameter or clinical feature
+title: "[FEAT]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Clinical Problem or Motivation
+      description: Explain what clinical limitation this feature addresses.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution & Transfer Model
+      description: Describe the proposed mathematical formulation or UI capability.
+    validations:
+      required: true

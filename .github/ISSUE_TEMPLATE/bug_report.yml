@@ -1,0 +1,22 @@
+name: 🐛 Bug Report
+description: Report an issue or unexpected behavior in Prescripto
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: A clear and concise description of what the issue is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Go to '/digital-twin'
+        2. Click 'Load Sample: Pre-Diabetic'
+        3. See error
+    validations:
+      required: true
